@@ -3,6 +3,7 @@ const { defineConfig } = require("cypress");
 module.exports = defineConfig({
   e2e: {
      "watchForFileChanges":false,
+     //"video": true,
     // "defaultCommandTimeout":3000,
 
     setupNodeEvents(on, config) {
