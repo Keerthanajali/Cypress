@@ -50,6 +50,8 @@ Assertions in cypress ==> assertions.cy.js
 2. Keeps the objects & methods separate from test scripts
 3. Efficient reusability
 4. Easier, Efficient and faster changes & maintenance
+5. In POM we have to create separate class for each page
+       e2e folder > create new folder (Pages)
 */
 
                  
